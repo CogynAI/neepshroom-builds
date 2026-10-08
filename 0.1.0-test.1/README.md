@@ -1,29 +1,29 @@
 # NeepShroom 0.1.0-test.1
 
-Testversion für Minecraft 1.20.1 (Fabric), Stand e772986. Download: **neepshroom-0.1.0-test.1.jar** in diesem Ordner.
+Test build for Minecraft 1.20.1 (Fabric), commit e772986. Download: **neepshroom-0.1.0-test.1.jar** in this folder.
 
-## Benötigt
+## Required
 
 | Mod | Version | Download |
 |---|---|---|
-| Fabric Loader | 0.16.14 oder neuer | https://fabricmc.net/use/installer/ |
-| Fabric API | 0.92.12+1.20.1 oder neuer | https://modrinth.com/mod/fabric-api |
+| Fabric Loader | 0.16.14 or newer | https://fabricmc.net/use/installer/ |
+| Fabric API | 0.92.12+1.20.1 or newer | https://modrinth.com/mod/fabric-api |
 | NEEPMeat | 0.34.0-beta | https://modrinth.com/mod/neepmeat |
-| GeckoLib | 4.8.4 oder neuer | https://modrinth.com/mod/geckolib |
+| GeckoLib | 4.8.4 or newer | https://modrinth.com/mod/geckolib |
 
-Empfohlen (Rezeptanzeige, eines von beiden):
+Recommended (recipe viewer, pick one):
 
 | Mod | Version | Download |
 |---|---|---|
 | EMI | 1.1.24+1.20.1 | https://modrinth.com/mod/emi |
-| REI | 12.1.785 (braucht Architectury und Cloth Config) | https://modrinth.com/mod/rei |
+| REI | 12.1.785 (needs Architectury and Cloth Config) | https://modrinth.com/mod/rei |
 
-## Einbau
+## Installation
 
-1. Fabric Loader für Minecraft 1.20.1 installieren.
-2. Alle Jars aus den Tabellen und **neepshroom-0.1.0-test.1.jar** in den Ordner `mods` legen.
-3. Spiel starten. Im Guide-Projektor (NEEPMeat) gibt es den Bereich **NeepShroom Testing** mit Werkzeugen und Prüfliste.
+1. Install Fabric Loader for Minecraft 1.20.1.
+2. Put all jars from the tables and **neepshroom-0.1.0-test.1.jar** into your `mods` folder.
+3. Start the game. NEEPMeat's Guide Projector has a **NeepShroom Testing** section with test tools and a checklist.
 
 ## Feedback
 
-An die Person, die dir den Zugang gegeben hat. Screenshots helfen, bei Fehlern auch `logs/latest.log`.
+Send it to whoever gave you the link. Screenshots help; for errors, please include `logs/latest.log`.
