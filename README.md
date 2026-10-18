@@ -6,6 +6,7 @@ The newest version is at the top.
 
 | Version | Folder |
 |---|---|
+| 0.1.0-test.4 | [0.1.0-test.4](0.1.0-test.4/) |
 | 0.1.0-test.3 | [0.1.0-test.3](0.1.0-test.3/) |
 | 0.1.0-test.2 | [0.1.0-test.2](0.1.0-test.2/) |
 | 0.1.0-test.1 | [0.1.0-test.1](0.1.0-test.1/) |
